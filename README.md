@@ -14,4 +14,6 @@ The job I'm best at is the front line between the people running equipment and t
 
 **Tools I use:** ABB RobotStudio / RAPID · Siemens Process Simulate · Dürr 3D Onsite · Proxmox · Docker · Linux · UniFi · Home Assistant
 
-📫 [LinkedIn](https://www.linkedin.com/in/mark-matheson-bb3274138/) · currently studying for the CCNA
+🌐 [markmatheson.dev](https://markmatheson.dev) · 📫 mark@markmatheson.dev · [LinkedIn](https://www.linkedin.com/in/mark-matheson-bb3274138/) · currently studying for the CCNA
+
+🔧 See [homelab](https://github.com/markmatheson/homelab) for configs, design decisions, and a troubleshooting log.
